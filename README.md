@@ -30,8 +30,7 @@ This system serves as an **early warning mechanism** to help farmers safeguard t
 
 **Demo:**
 
-Check out the live demo of the project: [Smart Crop Protection Demo](https://VISHNU-1019.github.io/smart-crop-protection/
-)
+Check out the live demo of the project: [Smart Crop Protection Demo]
 
 
 ### 2️⃣ Download & Extract the Project  
