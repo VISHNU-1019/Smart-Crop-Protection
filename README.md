@@ -28,6 +28,11 @@ This system serves as an **early warning mechanism** to help farmers safeguard t
 📌 A **modern web browser** (Chrome, Firefox, Edge, etc.).  
 📌 A **computer or device with a webcam**.  
 
+**Demo:**
+
+Check out the live demo of the project: [Smart Crop Protection Demo](https://VISHNU-1019.github.io/smart-crop-protection/)
+
+
 ### 2️⃣ Download & Extract the Project  
 - **Clone the repository** or **download the files manually**:  
   ```sh
